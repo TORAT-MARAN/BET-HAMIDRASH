@@ -1,3 +1,3 @@
-# BET-HAMIDRASH.github.io
+# BET-HAMIDRASH
 # בית המדרש תורת מרן  
 אתר תצוגה ל-GitHub Pages
